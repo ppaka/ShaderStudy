@@ -256,3 +256,20 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 914.717441 seconds.
+  path: Assets/NewSurfaceShader.shader
+  artifactKey: Guid(89014f9fcc4fd3649924bf05327be074) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewSurfaceShader.shader using Guid(89014f9fcc4fd3649924bf05327be074) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a4570c1584a6bd45814bc60aec1f981') in 0.012830 seconds 
+  Import took 0.016302 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 86.862253 seconds.
+  path: Assets/NewSurfaceShader.shader
+  artifactKey: Guid(89014f9fcc4fd3649924bf05327be074) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewSurfaceShader.shader using Guid(89014f9fcc4fd3649924bf05327be074) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '799213c78f2a5c3f0c8430fdcd4709e6') in 0.002014 seconds 
+  Import took 0.005769 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
